@@ -1,0 +1,34 @@
+h1{
+    background-color: black;
+    color: aliceblue;
+    width: 200px;
+    margin: auto;
+    align-items: center;
+    margin-top: 20px;
+    
+    
+    
+}
+.abc img{
+    width: 500px;
+    height: 300px;
+    background-color: aliceblue;
+    margin-top: 20px;
+
+}
+.def{
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    
+}
+.xyz{
+    align-items: center;
+    justify-content: center;
+    margin: 0%;
+    text-align: center;
+  
+    
+}
+
+
